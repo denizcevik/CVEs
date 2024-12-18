@@ -1,4 +1,4 @@
-CVE Collection Reported Cyberwise Cyber Security Team
+CVE Collection Reported by Cyberwise
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
 License
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
