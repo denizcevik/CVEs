@@ -1,4 +1,4 @@
-CVE Collection Reported by Cyberwise
+CVE Collection Reported by Cyberwise & BizzyScanner
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
 License
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
